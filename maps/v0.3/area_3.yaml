@@ -1,0 +1,15 @@
+image: area_3.png
+resolution: 0.050000
+origin: [-1.600000, -16.350000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+mat_filepath: area_3.mat
+graph_filepath: area_3_graph_v6.json
+mtl_filepath: /home/kchen92/Dev/GibsonEnv/gibson/assets/dataset/area3/semantic.mtl
+node_sizes:
+    hallway_1-3d: 0.7
+    hallway_1-7d: 0.7
+    hallway_4-8r: 0.9
+    office_4: 1.1
+    office_7: 1.1

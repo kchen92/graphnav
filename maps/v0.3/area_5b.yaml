@@ -1,0 +1,49 @@
+image: area_5b.png
+resolution: 0.050000
+origin: [-15.250000, -33.850000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+mat_filepath: area_5b.mat
+graph_filepath: area_5b_graph_v4.json
+mtl_filepath: /home/kchen92/Dev/GibsonEnv/gibson/assets/dataset/area5/semantic.mtl
+invalid_rooms:
+    - hallway_1
+    - hallway_2
+    - hallway_5
+    - hallway_6
+    - hallway_8
+    - hallway_15
+    - lobby_1
+    - office_6
+    - office_7
+    - office_8
+    - office_9
+    - office_10
+    - office_11
+    - office_12
+    - office_13
+    - office_14
+    - office_15
+    - office_18
+    - office_19
+    - office_20
+    - office_21
+    - office_22
+    - office_23
+    - office_29
+    - office_38
+    - office_39
+    - office_41
+    - office_42
+    - pantry_1
+node_sizes:
+    hallway_10-6d: 0.7
+    hallway_3-1r: 1.2
+    hallway_2-12d: 0.6
+    hallway_2-12u: 0.6
+    storage-3: 0.7
+    office_34_door: 1.3
+    hallway_4-1l: 0.6
+    hallway_4-1r: 0.6
+

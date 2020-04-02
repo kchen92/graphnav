@@ -1,0 +1,9 @@
+image: area_2.png
+resolution: 0.050000
+origin: [-8.300000, -26.550000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+mat_filepath: area_2.mat
+graph_filepath: area_2_graph.json
+

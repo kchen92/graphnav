@@ -1,0 +1,13 @@
+# Define the goal
+uint32 episode_idx
+string nav_plan
+---
+# Define the result
+uint8 episode_result
+float32 percentage_plan_completed
+---
+# Define a feedback message
+string cur_node_name
+string cur_room_name
+string gt_behavior_id
+string exec_behavior_id
