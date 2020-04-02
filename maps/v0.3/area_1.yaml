@@ -1,0 +1,22 @@
+image: area_1.png
+resolution: 0.050000
+origin: [-22.600000, -2.150000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+mat_filepath: area_1.mat
+graph_filepath: area_1_graph_v5.json
+mtl_filepath: /home/kchen92/Dev/GibsonEnv/gibson/assets/dataset/area1/semantic.mtl
+invalid_rooms:
+    - hallway_8
+    - office_26
+node_sizes:
+    conferenceRoom_2_door: 0.7
+    conferenceRoom_2: 0.9
+    office_17_door: 0.8
+    office_17: 0.8
+    office_24_door: 0.8
+    office_29_door: 0.8
+    hallway_6-11u: 0.7
+    hallway_6-17u: 0.8
+    hallway_7-10d: 0.8

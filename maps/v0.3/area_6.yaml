@@ -1,0 +1,23 @@
+image: area_6.png
+resolution: 0.050000
+origin: [-21.150000, -2.500000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+mat_filepath: area_6.mat
+graph_filepath: area_6_graph_v5.json
+mtl_filepath: /home/kchen92/Dev/GibsonEnv/gibson/assets/dataset/area6/semantic.mtl
+node_sizes:
+    openspace_1-1r: 1.8
+    openspace_1-1l: 1.8
+    openspace_1-2r: 1.8
+    openspace_1-2l: 1.8
+    hallway_1-10u: 0.8
+    hallway_1-10d: 0.8
+    hallway_1-8u: 0.8
+    hallway_1-8d: 0.8
+    hallway_2-3d: 0.8
+    hallway_2-3u: 0.8
+invalid_rooms:
+    - hallway_6
+
