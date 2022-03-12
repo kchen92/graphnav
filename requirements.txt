@@ -17,7 +17,7 @@ pandas==0.23.4
 pathlib2==2.3.3
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==5.2.0
+Pillow==9.0.1
 prompt-toolkit==1.0.15
 protobuf==3.6.0
 ptyprocess==0.6.0
